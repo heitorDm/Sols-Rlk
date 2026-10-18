@@ -1,0 +1,18 @@
+SOL'S RNG — DARK FANTASY
+
+COMO ABRIR
+1. Instale Python 3.11 ou mais novo (se ainda não tiver).
+2. Extraia o ZIP inteiro para uma pasta.
+3. Dê dois cliques em run_windows.bat.
+4. Na primeira vez, espere o Python instalar as dependências.
+5. O navegador abre o jogo. Crie sua conta em “CONTA & COOP ONLINE”.
+6. Deixe a janela preta aberta enquanto joga: ela é o servidor.
+
+JOGAR COM AMIGOS
+• Dentro de CONTA & COOP ONLINE, clique em “CRIAR SALA + CONVITE”.
+• Envie o link copiado para seu amigo.
+• Cada pessoa entra com a própria conta.
+• Na mesma rede Wi-Fi, descubra o IPv4 com `ipconfig`. Abra `http://IP-DO-PC:5000` também no computador anfitrião antes de criar a sala, depois envie o link ou o IP + código ao amigo.
+• Para amigos em outras redes, publique o projeto em um servidor online; consulte README.md.
+
+Não abra apenas o arquivo HTML. Login, salvamento por conta e coop precisam do servidor Python.
